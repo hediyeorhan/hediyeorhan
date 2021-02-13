@@ -53,8 +53,7 @@
 
 
 <br>
-### Github Stats
-<br>
+
 <img align="left" alt="hediyeorhan's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hediyeorhan&show_icons=true&hide_border=true" />
 
 

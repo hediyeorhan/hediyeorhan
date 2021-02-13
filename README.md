@@ -13,7 +13,7 @@
 ✔   My goal is to improve myself in the field of artificial intelligence and be very good in this field
 
 
-<h2> Connect with me : </h2>
+## Connect with me : 
 [<img align="left" alt="hediyeorhan2015@gmail.com | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>][gmail]
 [<img align="left" alt="hediyeorhaan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="hediyeorhan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]

@@ -18,6 +18,7 @@
 [<img align="left" alt="hediyeorhaan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="hediyeorhan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 [<img align="left" alt="hediyeorhaan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
+[<img align="left" alt="hediyeorhan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg"/>][kaggle]
 
 <br />
 
@@ -59,6 +60,7 @@
 [instagram]: https://www.instagram.com/hediyeorhaan/?hl=tr
 [linkedin]: https://www.linkedin.com/in/hediye-orhan-38220618b/
 [gmail]: https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJlGVQhpQQkjBhzZDghGWRDNZfwjZNFrvhBMVLJfVbVLCDqBCMZMWZnDmQSfGskDpbVwKwL
+[kaggle]: https://www.kaggle.com/hediyeorhan
 
 
 

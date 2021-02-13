@@ -59,8 +59,8 @@
 
 
 [twitter]: https://twitter.com/hediyeorhaan
-[instagram]: https://instagram.com/hediyeorhaan
-[linkedin]: https://linkedin.com/in/hediyeorhan
+[instagram]: https://www.instagram.com/hediyeorhaan/?hl=tr
+[linkedin]: https://www.linkedin.com/in/hediye-orhan-38220618b/
 [gmail]: https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJlGVQhpQQkjBhzZDghGWRDNZfwjZNFrvhBMVLJfVbVLCDqBCMZMWZnDmQSfGskDpbVwKwL
 
 

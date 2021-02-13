@@ -44,7 +44,7 @@
 <br />
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hediyeorhan&langs_count=8&hide=html" alt="hediyeorhan" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hediyeorhan&langs_count=8&layout=compact&hide=html" alt="hediyeorhan" />
 
 
 <br />

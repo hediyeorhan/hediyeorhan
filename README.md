@@ -53,7 +53,7 @@
 ### Github Stats
 <img align="left" alt="hediyeorhan's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hediyeorhan&show_icons=true&hide_border=true" />
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hediyeorhan&langs_count=8)](https://github.com/hediyeorhan/github-readme-stats)
 
 
 

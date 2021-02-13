@@ -55,7 +55,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hediyeorhan&langs_count=8)](https://github.com/hediyeorhan/github-readme-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hediyeorhan&hide=javascript,html)](https://github.com/hediyeorhan/github-readme-stats)
 
 [twitter]: https://twitter.com/hediyeorhaan
 [instagram]: https://www.instagram.com/hediyeorhaan/?hl=tr

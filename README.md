@@ -45,14 +45,14 @@
 <br />
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hediyeorhan&layout=compact&hide=html" alt="hediyeorhan" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hediyeorhan&layout=compact&hide=html" alt="hediyeorhan" />
 
 
 <br />
 <br />
+
 ### Github Stats
-
-  <img align="left" alt="hediyeorhan's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hediyeorhan&show_icons=true&hide_border=true" />
+<img align="left" alt="hediyeorhan's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hediyeorhan&show_icons=true&hide_border=true" />
 
 
 

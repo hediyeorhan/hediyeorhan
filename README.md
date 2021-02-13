@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/hediyeorhaan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhediyeorhaan&screen_name=hediyeorhaan)
 
-<<p align="left"> <img src="https://komarev.com/ghpvc/?username=hediyeorhan" alt="hediyeorhan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hediyeorhan" alt="hediyeorhan" /> </p>
 
 ✔   I’m a computer engineering student in Necmettin Erbakan University.
 
@@ -13,7 +13,8 @@
 ✔   My goal is to improve myself in the field of artificial intelligence and be very good in this field
 
 
-### Connect with me:
+### Connect with me :
+<hr>
 [<img align="left" alt="hediyeorhan2015@gmail.com | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>][gmail]
 [<img align="left" alt="hediyeorhaan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="hediyeorhan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
@@ -22,8 +23,8 @@
 
 <br />
 
-### Languages and Tools:
-
+### Languages and Tools :
+<hr>
 <img align="left" alt="Jupyter Notebook" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -50,7 +51,7 @@
 <br />
 <br />
 
-
+<hr>
 
 <br>
 

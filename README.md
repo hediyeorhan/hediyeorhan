@@ -50,10 +50,7 @@
 <br />
 <br />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hediyeorhan&repo=github-readme-stats)](https://github.com/hediyeorhan/github-readme-stats)
 
-<br/>
-<br/>
 
 
 ### Github Stats

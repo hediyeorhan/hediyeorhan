@@ -55,12 +55,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/hediyeorhan/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hediyeorhan&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/hediyeorhan/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hediyeorhan&repo=convoychat" />
-</a>
+
 ### Github Stats
 <img align="left" alt="hediyeorhan's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hediyeorhan&show_icons=true&hide_border=true" />
 

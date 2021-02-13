@@ -50,6 +50,11 @@
 <br />
 <br />
 
+[![hediyeorhan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hediyeorhan)](https://github.com/hediyeorhan/github-readme-stats)
+
+<br/>
+<br/>
+
 ### Github Stats
 <img align="left" alt="hediyeorhan's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hediyeorhan&show_icons=true&hide_border=true" />
 

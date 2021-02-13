@@ -50,7 +50,7 @@
 <br />
 <br />
 
-[![hediyeorhan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hediyeorhan)](https://github.com/hediyeorhan/github-readme-stats)
+
 
 <br/>
 <br/>

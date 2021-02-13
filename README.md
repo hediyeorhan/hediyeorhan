@@ -44,7 +44,7 @@
 <br />
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hediyeorhan&layout=compact&hide=html" alt="hediyeorhan" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hediyeorhan&langs_count=8&hide=html" alt="hediyeorhan" />
 
 
 <br />
@@ -53,9 +53,6 @@
 ### Github Stats
 <img align="left" alt="hediyeorhan's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hediyeorhan&show_icons=true&hide_border=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hediyeorhan&langs_count=8)](https://github.com/hediyeorhan/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hediyeorhan&hide=javascript,html)](https://github.com/hediyeorhan/github-readme-stats)
 
 [twitter]: https://twitter.com/hediyeorhaan
 [instagram]: https://www.instagram.com/hediyeorhaan/?hl=tr

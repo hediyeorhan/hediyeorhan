@@ -16,7 +16,7 @@
 
 ### Connect with me:
 [<img align="left" alt="hediyeorhan2015@gmail.com | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>][gmail]
-[<img align="left" alt="hediyeorhaan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/hediyeorhaan/twitter.svg" />][twitter]
+[<img align="left" alt="hediyeorhaan | Twitter" width="22px" src="https://twitter.com/hediyeorhaan" />][twitter]
 [<img align="left" alt="hediyeorhan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 [<img align="left" alt="hediyeorhaan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
 

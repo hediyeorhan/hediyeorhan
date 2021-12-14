@@ -51,17 +51,7 @@
     <a href="https://github.com/hediyeorhan/github-readme-stats"><img alt="Hediye's Github Stats" 
        src="https://github-readme-stats.vercel.app/api?username=hediyeorhan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
     </a>
-   <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=medamin20&show_icons=true&theme=radical)-->
-   <a href="https://github.com/hediyeorhan/github-readme-stats">
-   <img alt="Tarek MESSAOUDI's Top Languages"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=hediyeorhanI&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-  </a>
   <br/>
-
-
-<br />
-<br />
-
 
 
 <br>

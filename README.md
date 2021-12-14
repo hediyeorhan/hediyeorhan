@@ -45,18 +45,14 @@
 <br />
 <br />
 
-
+<br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hediyeorhan&langs_count=10&layout=compact&hide=html" alt="hediyeorhan" />
-  <br/>
+  
     <a href="https://github.com/hediyeorhan/github-readme-stats"><img alt="Hediye's Github Stats" 
        src="https://github-readme-stats.vercel.app/api?username=hediyeorhan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
     </a>
   <br/>
 
-
-<br>
-
-<img align="left" alt="hediyeorhan's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hediyeorhan&show_icons=true&hide_border=true" />
 
 
 [twitter]: https://twitter.com/hediyeorhaan

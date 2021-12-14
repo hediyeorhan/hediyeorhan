@@ -47,8 +47,8 @@
 
 <br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hediyeorhan&langs_count=10&layout=compact&hide=html" alt="hediyeorhan" />
-  
-    <a href="https://github.com/hediyeorhan/github-readme-stats"><img alt="Hediye's Github Stats" 
+  <br/>
+    <a href="https://github.com/hediyeorhan/github-readme-stats"><img alt="hediyeorhan's Github Stats" 
        src="https://github-readme-stats.vercel.app/api?username=hediyeorhan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
     </a>
   <br/>

@@ -23,7 +23,7 @@
 <h2> Languages, Tools and OS : </h2>
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Ubuntu" width="26px" src="https://user-images.githubusercontent.com/59260491/211911800-f86da05a-0323-45d9-b7a5-6d44ced76dec.png" />
-<img align="left" alt="C++" width="26px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/cplusplus.svg" />
+<img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/59260491/211912979-57d55391-d85b-4249-bbb1-e5625d79c4a4.png" />
 <img align="left" alt="Jupyter Notebook" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
 <img align="left" alt=MSSQL" width="26px" src="https://user-images.githubusercontent.com/59260491/211912457-77793218-8193-4aad-8cd2-ae7580197231.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />

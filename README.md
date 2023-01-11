@@ -6,9 +6,7 @@
 
 ✔   I’m a computer engineering student in Necmettin Erbakan University.
 
-✔   I’m currently learning : Flask, OpenCV, Tensorflow, Sklearn, Keras..
-
-✔   I'm working with great determination in the fields of machine learning and deep learning.
+✔   I'm working with great determination in the fields of machine learning, deep learning and optimization algorithms.
 
 ✔   My goal is to improve myself in the field of artificial intelligence and be very good in this field
 

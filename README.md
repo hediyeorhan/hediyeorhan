@@ -25,6 +25,7 @@
 <img align="left" alt="Ubuntu" width="26px" src="https://user-images.githubusercontent.com/59260491/211911800-f86da05a-0323-45d9-b7a5-6d44ced76dec.png" />
 <img align="left" alt="C++" width="26px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/cplusplus.svg" />
 <img align="left" alt="Jupyter Notebook" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
+<img align="left" alt=MSSQL" width="26px" src="https://user-images.githubusercontent.com/59260491/211912234-f6fdd735-cf60-405e-91a5-129045f4c4d5.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />

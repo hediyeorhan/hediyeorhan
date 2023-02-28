@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hediyeorhan" alt="hediyeorhan" /> </p>
 
+✨I describe myself as someone who is hungry for knowledge and dedicated to learning. Using my research skills and experience, I continue to progress in life with the philosophy of "Be your own teacher.".
+
 ✔   I’m a computer engineering student in Necmettin Erbakan University.
 
 ✔   I'm working with great determination in the fields of machine learning, deep learning and optimization algorithms.

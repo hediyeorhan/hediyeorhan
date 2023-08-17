@@ -5,12 +5,6 @@
 
 ✨I describe myself as someone who is hungry for knowledge and dedicated to learning. Using my research skills and experience, I continue to progress in life with the philosophy of "Be your own teacher.".
 
-✔   I’m a computer engineering student in Necmettin Erbakan University.
-
-✔   I'm working with great determination in the fields of machine learning, deep learning and optimization algorithms.
-
-✔   My goal is to improve myself in the field of artificial intelligence and be very good in this field
-
 
 ## Connect with me : 
 [<img align="left" alt="hediyeorhan2015@gmail.com | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>][gmail]
